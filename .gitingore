@@ -1,0 +1,61 @@
+# ----------------------------------------
+# Python
+# ----------------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.pickle
+*.db
+*.sqlite3
+*.egg-info/
+*.egg
+.eggs/
+env/
+venv/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.dylib
+*.dll
+
+# C extensions
+build/
+develop-eggs/
+dist/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+pip-wheel-metadata/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+.cache/
+.pytest_cache/
+.coverage
+.coverage.*
+nosetests.xml
+
+# Jupyter / IPython
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Django / Flask / other frameworks
+*.log
+local_settings.py
+instance/
+.webassets-cache
+
+# Envir
